@@ -12,12 +12,13 @@ ELF 구조 및 GDB 사용법 익히기
 학습한 내용을 바탕으로 리포지토리에 정리
 
 ## 프로젝트 구성 (Structure)
+```
 Grapple_story/
-├── basics/         / 리버싱 기초 이론 및 실습
-├── challenges/     / 간단한 바이너리 문제 및 풀이
-├── writeups/       / 문제별 풀이 (Write-ups)
-├── tools/          / 사용한 도구 및 설정 정리
-└── README.md       / 프로젝트 소개 문서
+├── basics/        # 리버싱 기초 이론 및 실습
+├── tools/         # 사용한 도구 및 설정 정리
+└── README.md      # 프로젝트 소개 문서
+```
+
 
 ## 사용 도구 (Tools)
 Binary Ninja
